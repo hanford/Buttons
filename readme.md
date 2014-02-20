@@ -1,0 +1,1 @@
+Tired of making buttons for every project I work on, so I made some nice defaults that I can build off of. Colors are from bootstrap, buttons are inspired by google.
