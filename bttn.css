@@ -1,6 +1,8 @@
 /* Jack's buttons! */
 
-button, .reset-anchor {
+button,
+/*input[type="button"],*/
+.reset-anchor {
   background: none repeat scroll 0 0 transparent;
   border: medium none;
   border-spacing: 0;
@@ -111,4 +113,8 @@ button, .reset-anchor {
 
 .bttn-warning:hover {
   background-color: #F0AD4E;
+}
+
+a.bttn {
+  padding: 10px 15px;
 }
